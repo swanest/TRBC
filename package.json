@@ -1,0 +1,34 @@
+{
+  "name": "thomson-reuters-trbc",
+  "version": "0.1.0",
+  "description": "Simple JSON map (indexed) for the Thomson Reuters Business Classification",
+  "main": "lib/model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouriT/TRBC.git"
+  },
+  "keywords": [
+    "thomson",
+    "reuters",
+    "thomson reuters",
+    "json",
+    "map",
+    "classification",
+    "naics",
+    "index",
+    "data",
+    "TRBC"
+  ],
+  "author": "Youri Tolstoy <ytolstoy@gmail.com> (https://swanest.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YouriT/TRBC/issues"
+  },
+  "homepage": "https://github.com/YouriT/TRBC#readme",
+  "devDependencies": {
+    "reverse-index": "0.0.1"
+  }
+}
